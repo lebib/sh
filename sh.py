@@ -21,7 +21,7 @@
 #===============================================================================
 
 
-__version__ = "1.09"
+__version__ = "1.09-unicodepatch"
 __project_url__ = "https://github.com/amoffat/sh"
 
 
